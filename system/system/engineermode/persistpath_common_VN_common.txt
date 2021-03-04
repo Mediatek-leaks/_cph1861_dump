@@ -1,0 +1,2 @@
+data/app/com.xb.topnews
+data/app/com.lazada.android
