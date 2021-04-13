@@ -1,0 +1,4 @@
+service neuralnetworks_hal_service_armnn /vendor/bin/hw/android.hardware.neuralnetworks@1.0-service-armnn -t 2 -m /vendor/etc/tuner.config -l 1060000000
+    class hal
+    user system
+    group system
