@@ -1,0 +1,1 @@
+data/app/in.amazon.mShop.android.shopping

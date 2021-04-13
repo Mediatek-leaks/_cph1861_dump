@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <!--function for rom update parameter-->
+    <version>2018061500</version>
+    <isOpen>1</isOpen>
+    <filter-name>sys_quality_config</filter-name>
+    <switch name="TotalSwitch" value="0"></switch>
+    <switch name="UpdateCpuStats" value="0"></switch>
+    <switch name="LaunchTime" value="0"></switch>
+    <switch name="BlackScreen" value="0"></switch>
+    <switch name="SlowOperation" value="0"></switch>
+    <switch name="Iozone1" value="0"></switch>
+    <switch name="Choreographer" value="0"></switch>
+    <switch name="HealthInfoSwitch" value="0"></switch>
+    <switch name="MemMonitorSwitch" value="0"></switch>
+    <switch name="IONCountSwitch" value="1"></switch>
+    <switch name="PartitionCheckSwitch" value="0"></switch>
+    <command result="ps-A.txt">ps -A</command>
+</filter-conf>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OppoSmartPhoneThemeInfo>
+  <Author>OPPO</Author>
+  <Summary>Default theme</Summary>
+  <Description>Default theme</Description>
+  <disableLockPictorial>0</disableLockPictorial>
+  <enableLauncherApplyEffect>1</enableLauncherApplyEffect>
+  <Scale>1.00</Scale>
+  <XOffsetPCT>0.00</XOffsetPCT>
+  <YOffsetPCT>0.00</YOffsetPCT>
+  <LastModifyTime>2018-06-06-18-28-33</LastModifyTime>
+  <IsGlobalTheme>0</IsGlobalTheme>
+  <LanguageType>1</LanguageType>
+  <EditorName>2.0</EditorName>
+  <UUID>8F98A31C7D7D475A97A63622DB4269D7</UUID>
+  <PackageName>8F98A31C7D7D475A97A63622DB4269D7</PackageName>
+  <VersionName>5.1.1</VersionName>
+  <VersionCode>511</VersionCode>
+  <packageInfo>
+    <package name="icons" />
+    <package name="wallpaper" />
+    <package name="com.oppo.launcher" />
+    <package name="com.android.keyguard"/>
+    <package name="picture"/>
+  </packageInfo>
+  <resolutionInfo>
+    <resolution>1920*1080</resolution>
+  </resolutionInfo>
+</OppoSmartPhoneThemeInfo>

@@ -1,0 +1,13 @@
+service neo /system/bin/neo
+class core
+user system
+group system readproc
+capabilities SYS_NICE
+disabled
+socket neosocket stream 660 system system
+
+on property:sys.boot_completed=1 && property:persist.sys.enable.neo=0
+stop neo
+
+on property:sys.boot_completed=1 && property:persist.sys.enable.neo=1
+start neo
