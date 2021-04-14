@@ -1,0 +1,2 @@
+com.xb.topnews
+com.lazada.android

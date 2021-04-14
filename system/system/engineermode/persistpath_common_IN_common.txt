@@ -1,0 +1,3 @@
+data/app/in.amazon.mShop.android.shopping
+data/app/com.realmecomm.app
+data/app/com.realmestore.app
