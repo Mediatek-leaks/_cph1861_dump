@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<self_init_config>
+
+<fingerprint_time   project="17065" regionmark="-RU"   value= "1587903909" />
+<base_os_time       project="17065" regionmark="-RU"   value= "1583736408" />
+<ro_product_model   project="17065" regionmark="-RU"   value= "CPH1861" />
+<ro_product_name    project="17065" regionmark="-RU"   value= "CPH1861" />
+<ro_product_device  project="17065" regionmark="-RU"   value= "CPH1861" />
+<ro_build_id        project="17065" regionmark="-RU"   value= "" />
+
+<fingerprint_time   project="17065" regionmark="RU"   value= "1587903909" />
+<base_os_time       project="17065" regionmark="RU"   value= "1583736408" />
+<ro_product_model   project="17065" regionmark="RU"   value= "CPH1861RU" />
+<ro_product_name    project="17065" regionmark="RU"   value= "CPH1861" />
+<ro_product_device  project="17065" regionmark="RU"   value= "CPH1861" />
+<ro_build_id        project="17065" regionmark="RU"   value= "" />
+
+<fingerprint_time   project="17066" regionmark="-RU"   value= "1587903909" />
+<base_os_time       project="17066" regionmark="-RU"   value= "1583736408" />
+<ro_product_model   project="17066" regionmark="-RU"   value= "CPH1859" />
+<ro_product_name    project="17066" regionmark="-RU"   value= "CPH1859" />
+<ro_product_device  project="17066" regionmark="-RU"   value= "CPH1859" />
+<ro_build_id        project="17066" regionmark="-RU"   value= "" />
+
+<fingerprint_time   project="17062" regionmark="-RU"   value= "1587903909" />
+<base_os_time       project="17062" regionmark="-RU"   value= "1583736408" />
+<ro_product_model   project="17062" regionmark="-RU"   value= "CPH1859" />
+<ro_product_name    project="17062" regionmark="-RU"   value= "CPH1859" />
+<ro_product_device  project="17062" regionmark="-RU"   value= "CPH1859" />
+<ro_build_id        project="17062" regionmark="-RU"   value= "" />
+
+</self_init_config>
